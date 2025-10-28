@@ -22,10 +22,5 @@ Built using **Next.js**, **Firebase**, and **OpenAI API**.
 - **AI:** OpenAI API  
 - **Hosting:** Vercel  
 
----
 
-## ⚙️ Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/JoyceVagi/ai-interview-coach.git
